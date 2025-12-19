@@ -8,8 +8,8 @@
 #include <DallasTemperature.h>
 
 // WiFi credentials - CHANGE THESE
-const char* ssid = "ACT102581149144_5G _g";
-const char* password = "Anime@06";
+const char* ssid = "Madhu's S25 Ultra";
+const char* password = "1234567890";
 
 // Server endpoint - CHANGE THIS to your domain
 const char* serverUrl = "http://192.168.0.161:3000/api/predict";  
